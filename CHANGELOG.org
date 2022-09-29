@@ -1,0 +1,6 @@
+#+title: Changelog
+
+* ~0.1.0~ - <2022-09-29 Thu>
+
+- Initial release
+- Implementation of file template for Doom Emacs users

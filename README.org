@@ -1,0 +1,9 @@
+#+title: qhelp-mode
+
+* ~qhelp-mode~ -- A major mode for CodeQL's qhelp documentation files
+
+** Features
+
+- Syntax highlighting from the builtin ~sgml-mode~
+- File template for users of [[https://github.com/doomemacs/doomemacs][Doom Emacs]][[]] with the ~:editor file-templates~
+  feature enabled

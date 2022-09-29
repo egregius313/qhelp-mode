@@ -5,5 +5,5 @@
 ** Features
 
 - Syntax highlighting from the builtin ~sgml-mode~
-- File template for users of [[https://github.com/doomemacs/doomemacs][Doom Emacs]][[]] with the ~:editor file-templates~
+- File template for users of [[https://github.com/doomemacs/doomemacs][Doom Emacs]] with the ~:editor file-templates~
   feature enabled

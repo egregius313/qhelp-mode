@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: sample
+# uuid: qlhelp-sample
+# key: sample
+# condition: t
+# --
+<sample src="$1"/>
+$0

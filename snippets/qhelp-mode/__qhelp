@@ -1,0 +1,26 @@
+# -*- mode: snippet -*-
+# name: __qhelp
+# uuid: qhelp-template
+# key: __qhelp
+# condition: t
+# contributor: <egregius313@gmail.com>
+# --
+<!DOCTYPE qhelp PUBLIC
+  "-//Semmle//qhelp//EN"
+  "qhelp.dtd">
+<qhelp>
+<overview>
+$0
+</overview>
+
+<recommendation>
+
+</recommendation>
+
+<example>
+</example>
+
+<references>
+</references>
+
+</qhelp>
